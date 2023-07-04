@@ -27,4 +27,4 @@ O peso do Tribunal de Justiça pode não ser necessariamente negativo, visto que
 - TRANSFORMAÇÃO: Através do Excel e Power Query foi feita toda a etapa de tratamento dos dados, eliminando colunas obsoletas para a análise, sintetizando os dados e compactando-os.
 - LOAD: Foi criado o template no Figma utilizando a paleta de tons da bandeira do estado de forma moderna e suave, somadas a distribuição das visualizações dentro do Power BI considerando os conceitos de Storytelling afim de facilitar a interpretação dos dados.
 
-![Aqui insiro um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Pagamentos%20Extraor%C3%A7ament%C3%A1rios%20do%20Governo%20do%20Estado%20da%20Bahia/print%20dashboard%20completo.png)
+![Aqui insiro um print do Dashboard](https://github.com/BitencourtVitor/Pagamentos_Extraorcamentarios/blob/main/print%20dashboard%20completo.png)
